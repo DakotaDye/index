@@ -52,3 +52,34 @@ li{
     border-bottom: 2px;
     border-style: none none solid none;
 }
+#listItem_1{
+    border-color:black;
+}
+#aboutProject_ul{
+    list-style: circle;
+}
+.personalProjectList{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: left;
+}
+.personalProjectAbout{
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: left;
+}
+
+h4{
+    clear:both;
+    margin:auto;
+    background-color: #7828f2;
+    width: 40px;
+    padding: 10px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
+#sad-meInfo{
+    font-weight: 500;
+    font-size: 15px;
+}
+.aboutMeColumn
