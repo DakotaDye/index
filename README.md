@@ -22,6 +22,7 @@ _This webpage is about me. There are links to my git hub repository. Includes a 
 
 * _Issue in CSS format_
 * _Text bubbles are in wrong places_
+* _wont use the CSS in github pages_
 
 ## License
 
