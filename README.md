@@ -2,7 +2,7 @@
 Portfolio landing page
 #### By _Dakota Dye_
 
-#### _A landing page about me_https://dakotadye.github.io/index/
+#### _A landing page about me https://dakotadye.github.io/index/_
 
 ## Technologies Used
 
